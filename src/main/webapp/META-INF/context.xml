@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context>
+    <Resource 
+        name="jdbc/Postgres"
+        auth="Container"
+        type="javax.sql.DataSource"
+        username="sgwmhdowrpujsg"
+        password="3df7d192aa6ee4d0497aa1291c23270d6eeb8455558f23dbb88ec0ab70892ac6"
+        driverClassName="org.postgresql.Driver"
+        url="jdbc:postgresql://ec2-184-73-25-2.compute-1.amazonaws.com:5432/duo2buh5bsqqq"
+        maxTotal="25"
+        maxIdle="10"
+        validationQuery="select 1"
+    />
+</Context>
