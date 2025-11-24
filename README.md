@@ -10,3 +10,6 @@
 * All employees have to register using this system to get a unique id and select a strong password as per the given choices. 
 * Some new features such as smileys and graphics texture has been added to express views properly in front of others. This system will work as host as well as for their clients and all information will be stored at central server. 
 * To establish fast communication between coworkers, list of directors and team manager’s id will be available directly under the profile of particular employees by which they can send private messages without searching them.
+
+
+<!-- Security scan triggered at 2025-11-24 23:34:27 -->
